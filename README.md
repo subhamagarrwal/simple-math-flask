@@ -1,6 +1,6 @@
 # SimpleMath-Flask
 
-<img src="https://files.ieeevit.org/Hacktoberfest-23/Simple%20Math.png" alt="README Banner"/>
+<img src="simplemath.mng" alt="README Banner"/>
 
 # Hacktoberfest, 2023 with IEEE-VIT Student Branch
 

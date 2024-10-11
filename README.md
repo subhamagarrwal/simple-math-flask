@@ -2,7 +2,7 @@
 
 <img src="simplemath.mng" alt="README Banner"/>
 
-# Hacktoberfest, 2023 with IEEE-VIT Student Branch
+# Hacktoberfest, 2024 with IEEE-VIT Student Branch
 
 SimpleMath-Flask is a Flask app that does math for you. This repository was created to help developers get started with Open Source during [Hacktoberfest](https://hacktoberfest.com/)
 > NOTE: Check out `issues` labelled as `Hacktoberfest` and start contributing!

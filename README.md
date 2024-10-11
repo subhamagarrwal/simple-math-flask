@@ -1,6 +1,6 @@
 # SimpleMath-Flask
 
-<img src="simplemath.mng" alt="README Banner"/>
+<img src="simplemath.png" alt="README Banner"/>
 
 # Hacktoberfest, 2024 with IEEE-VIT Student Branch
 
